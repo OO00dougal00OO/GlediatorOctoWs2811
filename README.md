@@ -10,4 +10,6 @@ Modify the variables ledsperstrip and no strips according to your configuration.
 
 I hope this helps someone down the line, i now have a very happy lighting guy after getting this working :-D
 
+By the way this was modified after a couple of beers and half a bottle of wine . . . . .
+
 Enjoy
